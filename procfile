@@ -1,1 +1,1 @@
-worker: discord-bot-atendedor/main.py
+worker: python discord-bot-atendedor/main.py
